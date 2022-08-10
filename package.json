@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "faker": "^5.5.3"
+  },
   "devDependencies": {
     "typescript": "^4.7.4"
   },
